@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: CarteraYCelularJoven
   m_EditorClassIdentifier: 
   escala: 1
-  prefabDeModelo: {fileID: 919132149155446097, guid: 1c4b10638a5da6523bd65eb75dfd1857, type: 3}
+  prefabDeModelo: {fileID: 9200852448843921432, guid: 9656a662643dc1d4d96526e0f64cdf13, type: 3}

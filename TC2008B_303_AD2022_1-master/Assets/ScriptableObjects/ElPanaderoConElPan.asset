@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: ElPanaderoConElPan
   m_EditorClassIdentifier: 
   escala: 3
-  prefabDeModelo: {fileID: 6052083014914022360, guid: 9e2d1285265bb0c4b96f8901a59b0ad5, type: 3}
+  prefabDeModelo: {fileID: 5007256571742784126, guid: 9e2d1285265bb0c4b96f8901a59b0ad5, type: 3}

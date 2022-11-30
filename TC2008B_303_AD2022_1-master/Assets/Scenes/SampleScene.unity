@@ -565,8 +565,6 @@ MonoBehaviour:
   _camaras:
   - {fileID: 963194227}
   - {fileID: 900032676}
-  - {fileID: 0}
-  - {fileID: 0}
   _camaraActiva: -3
 --- !u!4 &718782706
 Transform:

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: TobonMovil
   m_EditorClassIdentifier: 
   escala: 1
-  prefabDeModelo: {fileID: 1248598967819147742, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
+  prefabDeModelo: {fileID: 4455877833072755741, guid: 702c130c3408df640945b1a534abb277, type: 3}

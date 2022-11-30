@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: MemoMovil
   m_EditorClassIdentifier: 
   escala: 1
-  prefabDeModelo: {fileID: 919132149155446097, guid: 896ea0af6bfa50e3b95b9739d0fb29b9, type: 3}
+  prefabDeModelo: {fileID: 5864063589329586486, guid: d548f05d9ccd0234c844f2c596955842, type: 3}

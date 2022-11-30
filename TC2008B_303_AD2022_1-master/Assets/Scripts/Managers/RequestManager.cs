@@ -128,7 +128,7 @@ public class RequestManager : MonoBehaviour
         }
     }
 
-    IEmumerator Request()
+    /*IEmumerator Request()
     {
         //1. Hacer Request
         //2. Parsear datos en string a json
@@ -170,5 +170,5 @@ public class RequestManager : MonoBehaviour
         }
 
         print(JsonUtility.ToJson(datos));
-    }
+    }*/
 }

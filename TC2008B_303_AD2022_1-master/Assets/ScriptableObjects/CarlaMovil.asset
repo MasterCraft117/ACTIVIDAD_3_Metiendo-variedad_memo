@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: CarlaMovil
   m_EditorClassIdentifier: 
   escala: 1
-  prefabDeModelo: {fileID: 7644360707672163555, guid: f430073c636116b4b9c0f5e6ddcde097, type: 3}
+  prefabDeModelo: {fileID: 2868043682818526381, guid: cfc97d72ba7293045b2d26fff3513a28, type: 3}

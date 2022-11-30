@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: LeonMovil
   m_EditorClassIdentifier: 
   escala: 1
-  prefabDeModelo: {fileID: 919132149155446097, guid: 025a5d9c8a5aa162993b8e75d69969a3, type: 3}
+  prefabDeModelo: {fileID: 4004938735774490368, guid: c489f53eec49888498330a34b64d1203, type: 3}

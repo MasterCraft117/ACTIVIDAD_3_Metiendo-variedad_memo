@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Bombero
   m_EditorClassIdentifier: 
   escala: 2
-  prefabDeModelo: {fileID: 919132149155446097, guid: ab7ce0e563e1acdada20aafb4c9b9713, type: 3}
+  prefabDeModelo: {fileID: 4511762465391256767, guid: d0f4e9f36e6ca8b4699fdf726c4b1c9c, type: 3}

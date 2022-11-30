@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Ambulancia
   m_EditorClassIdentifier: 
   escala: 1
-  prefabDeModelo: {fileID: 4686352878046490105, guid: 2bf76ed710f80d443a0d1340f2fe8853, type: 3}
+  prefabDeModelo: {fileID: 8855565505556045652, guid: 2bf76ed710f80d443a0d1340f2fe8853, type: 3}

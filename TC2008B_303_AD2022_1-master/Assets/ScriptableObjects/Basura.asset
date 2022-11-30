@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Basura
   m_EditorClassIdentifier: 
   escala: 0.5
-  prefabDeModelo: {fileID: 919132149155446097, guid: 64b926912fd04a4e1a4c4fb028befb7f, type: 3}
+  prefabDeModelo: {fileID: 3914206577793605397, guid: 238f546b0198fac4886fa050b756a4a5, type: 3}

@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Steps
 {
-    public carro[] carros;
+    /*public carro[] carros;
 
-    public Semaforo[] semaforo;
+    public Semaforo[] semaforo;*/
 
 }

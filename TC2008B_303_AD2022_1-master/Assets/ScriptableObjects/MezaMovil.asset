@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: MezaMovil
   m_EditorClassIdentifier: 
   escala: 1
-  prefabDeModelo: {fileID: 4591691155392393144, guid: a9cbfe7195f75844aa7ec0619ca7616f, type: 3}
+  prefabDeModelo: {fileID: 1393679191620583610, guid: 5c0120e7ec84ee2409b99fa546657127, type: 3}
